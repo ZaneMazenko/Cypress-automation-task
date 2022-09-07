@@ -53,7 +53,7 @@ describe('Katalon Demo Page Testing', () => {
                 SummaryPage.commentCheck.should('have.text', 'This is a comment');
             })
             // Scenario 2:
-        it.only('Scenario 2', () => {
+        it('Scenario 2', () => {
             FirstPage.makeAppointmentBtn.click();
             // Input username
             // Input Password
