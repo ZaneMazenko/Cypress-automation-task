@@ -1,0 +1,65 @@
+{
+  "name": "tdl_ss_web_aut_day_2_extra",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZaneZvirgzdina/TDL_SS_WEB_AUT_DAY_2_Extra.git"
+  },
+  "author": "Zane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZaneZvirgzdina/TDL_SS_WEB_AUT_DAY_2_Extra/issues"
+  },
+  "homepage": "https://github.com/ZaneZvirgzdina/TDL_SS_WEB_AUT_DAY_2_Extra#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "pretty-bytes": "^5.6.0",
+    "pump": "^3.0.0",
+    "proxy-from-env": "^1.0.0",
+    "punycode": "^2.1.1",
+    "psl": "^1.9.0",
+    "request-progress": "^3.0.0",
+    "qs": "^6.5.3",
+    "restore-cursor": "^3.1.0",
+    "rxjs": "^7.5.6",
+    "rfdc": "^1.3.0",
+    "rimraf": "^3.0.2",
+    "safer-buffer": "^2.1.2",
+    "safe-buffer": "^5.2.1",
+    "shebang-command": "^2.0.0",
+    "semver": "^7.3.7",
+    "slice-ansi": "^3.0.0",
+    "signal-exit": "^3.0.7",
+    "sshpk": "^1.17.0",
+    "strip-final-newline": "^2.0.0",
+    "supports-color": "^8.1.1",
+    "strip-ansi": "^6.0.1",
+    "shebang-regex": "^3.0.0",
+    "string-width": "^4.2.3",
+    "through": "^2.3.8",
+    "throttleit": "^1.0.0",
+    "tmp": "^0.2.1",
+    "tough-cookie": "^2.5.0",
+    "tslib": "^2.4.0",
+    "tunnel-agent": "^0.6.0",
+    "tweetnacl": "^0.14.5",
+    "universalify": "^2.0.0",
+    "type-fest": "^0.21.3",
+    "untildify": "^4.0.0",
+    "uuid": "^8.3.2",
+    "verror": "^1.10.0",
+    "which": "^2.0.2",
+    "wrap-ansi": "^7.0.0",
+    "wrappy": "^1.0.2",
+    "yauzl": "^2.10.0",
+    "yallist": "^4.0.0"
+  },
+  "devDependencies": {
+    "cypress": "^10.7.0"
+  },
+  "description": ""
+}
